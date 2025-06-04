@@ -31,8 +31,8 @@ Explore the intricacies of managing stateful applications in Kubernetes using a 
 Each concept includes practical examples and scenarios to help you understand and troubleshoot effectively. Clone this repository to explore the examples and apply the kubectl commands.
 
 ```bash
-            git clone https://github.com/DarylAdrien/k8s-troubleshooting.git
-            cd k8s-troubleshooting
+git clone https://github.com/DarylAdrien/k8s-troubleshooting.git
+cd k8s-troubleshooting
 ```
 
 Navigate into the respective directories to find YAML manifests and troubleshooting steps for each concept.
